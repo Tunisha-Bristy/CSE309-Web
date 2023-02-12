@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 10%;
+    border: 5%;
+    background-color: rgb(166, 219, 219);
+}
+h1{
+    color: white;
+    background-color: blue;
+
+}
+h2{
+    color:brown;
+    text-align: left;
+}
+h3:hover{
+    color: red;
+    cursor:cell;
+}
+#quote{
+    font-family: 'Brush Script MT', cursive;
+    font-size:xx-large;
+    font-variant:small-caps;
+}
+.courses{
+    width: 50%;
+    background-color: yellowgreen;
+    outline-style: dotted;
+    outline-color: rgb(9, 9, 12);
+}
+table,th,td{
+    border: 1px solid black;
+    cursor:grab;
+    text-align: center;
+    border-color:brown
+}
+img{
+    opacity:0.70;
+}
+#books{
+    width: 30%;
+    border-collapse: collapse;
+    color: blue;
+    outline-style:dashed;
+}
+.youtube{
+    width: 400;
+    height: 150;
+}
+.address{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+}
+.break{
+    line-break:auto;
+    height:25px;
+}
